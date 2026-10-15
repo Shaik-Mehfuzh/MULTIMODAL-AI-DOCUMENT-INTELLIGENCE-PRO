@@ -1,0 +1,6 @@
+{
+  "name": "DocuMind AI - Multimodal Document Intelligence",
+  "description": "Production-grade visual document intelligence platform founded on ColPali late-interaction retrieval, visual patch attention, multimodal evidence-based QA, table/chart extraction, and ViDoRe evaluation lab.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
